@@ -1,13 +1,13 @@
 # Climate Risk AI Engine & Environmental Governance Framework
 
-**Author / Lead Researcher:** Olayiwola Oladimeji Austin  
+**Author / Creator:** Olayiwola Oladimeji Austin  
 **Domain:** Climate Tech, Environmental Sustainability, and Artificial Intelligence (AI)  
-**Purpose:** Professional proof of work and technical delivery for client environmental sustainability and AI-driven climate risk prediction initiatives.
+**Purpose:** Technical portfolio and professional proof of work showcasing development in environmental sustainability and AI-driven climate risk prediction.
 
 ---
 
 ## 📌 Executive Summary
-This repository showcases the technical architecture, data processing scripts, and predictive modeling framework developed to address climate vulnerability and natural resource management. The system leverages machine learning and data-driven innovation to assist developing countries and agricultural zones in building long-term climate resilience and optimizing resource allocation.
+This repository showcases the technical architecture, data processing scripts, and predictive modeling framework I developed to address climate vulnerability and natural resource management. The system leverages machine learning and data-driven innovation to assist developing countries and agricultural zones in building long-term climate resilience and optimizing resource allocation.
 
 The methodologies implemented here align with published research and recognized frameworks, including AI-driven climate risk modeling and environmental governance strategies.
 
